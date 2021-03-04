@@ -2,7 +2,7 @@
 
 ## OVERVIEW OF PROJECT
 
-The purpose and background are well defined
+This project is about analyzing Green energy stock data of a dozen tickers to identify the ones that would be best to invest in, based on their Total Daily Volume and Returns in the past couple of years.
 
 ## RESULTS
 
