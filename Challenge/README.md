@@ -8,9 +8,13 @@ This project is about analyzing Green energy stock data of a dozen tickers to id
 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script
 
-### Stock Performance in 2017 and 2018
+### Stock Performance in 2017 vs 2018
 
-  <p align=“center”><img src=“https://github.com/yazhcodes/stock_analysis/blob/main/Challenge/Resources/2017vs2018.png”></img></p>
+Upon comparing and visualizing the stock returns of various tickers over 2017 and 2018, it is quite evident that Green energy has suffered a significant loss in 2018, with the exception of ***Sunrun Inc***, a Solar Company that has seen an increase in return of over 78% in two years. It is undoubtedly the best green stock to invest at this point of time.
+
+<p align="center"><img src="https://github.com/yazhcodes/stock_analysis/blob/main/Challenge/Resources/2017vs2018.png"></img></p>
+
+### A comparison of Execution Time
 
 ## SUMMARY
 
