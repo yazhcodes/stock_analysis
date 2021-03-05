@@ -9,7 +9,8 @@ This project is about analyzing Green energy stock data of a dozen tickers to id
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script
 
 ### Stock Performance in 2017 and 2018
-  
+
+  <p align=“center”><img src=“https://github.com/yazhcodes/stock_analysis/blob/main/Challenge/Resources/2017vs2018.png”></img>
 
 ## SUMMARY
 
