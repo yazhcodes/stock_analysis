@@ -8,6 +8,9 @@ This project is about analyzing Green energy stock data of a dozen tickers to id
 
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script
 
+### Stock Performance in 2017 and 2018
+  
+
 ## SUMMARY
 
 What are the advantages or disadvantages of refactoring code?
