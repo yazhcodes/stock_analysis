@@ -36,20 +36,21 @@ Then I went on to refactor my code based on the logic used in the course, which 
 
 ## SUMMARY
 
-The advantages of refactoring according to Martin Fowler (Father of Code Smell) are stated in the following:
+The ADVANTAGES of refactoring according to ***Martin Fowler (Father of Code Smell)*** are stated in the following:
 
 1. **Improves the Design** of Software
 2. Makes Software **Easier to Understand**
 3. Helps Finding **Bugs**
 4. Helps Programming **Faster**
 
-The disadvantages of refactoring code are,
+The DISADVANTAGES of refactoring code are,
 
 1. **Time Consuming:** You may have no idea how much time it may take to complete the process. It may also land you into a situation where you have no idea where to go.
 2. **Chance of Mistakes:** In case if it went wrong, you will have to waste much more time in solving the problem and there are probable chances that it may go wrong due to complexity of the code.
 
 How do these pros and cons apply to refactoring the original VBA script?
+  
 
 References:
-https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software
-https://anarsolutions.com/code-refactoring-concept-analysis/#:~:text=Maintainability%3A%20After%20refactoring%2C%20the%20code,no%20idea%20where%20to%20go.
+* https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software
+* https://anarsolutions.com/code-refactoring-concept-analysis/#:~:text=Maintainability%3A%20After%20refactoring%2C%20the%20code,no%20idea%20where%20to%20go.
