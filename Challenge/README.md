@@ -16,6 +16,14 @@ Upon comparing and visualizing the stock returns of various tickers over 2017 an
 
 ### A comparison of Execution Time
 
+**Nested FOR Loop vs FOR Loop**
+Before getting to refactor my code as per course instructions, I tried a different variation of the analysis logic. Instead of a Nested For loop as mentioned in the course, I tried to use accomplish the task using just one For Loop. My idea was to optimize the code by cutting down the number of times the loop executed. The Nested FOR loop looped through the data set 36144 (12 * 3013) and my method looped through the data only 3012 times. Surprisingly, there was not much of a difference in terms of execution time. 
+
+**Refactoring using Arrays**
+So I went on to refactor my code based on the logic used in the course, which was using one FOR loop and several arrays to store the calculated values. It was interesting to see that using multiple arrays reduced my run time significantly. I realized that switching between worksheets, going back and forth multiple times to analyze and output the calculated values had caused my analysis to slow down a lot. Instead staying on one sheet for the entire analysis, storing the calculated values in arrays and then populating the outputs on a different sheet in the very end cut down my runtime by half. The stats of my findings can be found below.
+
+Execution Time 
+
 ## SUMMARY
 
 What are the advantages or disadvantages of refactoring code?
