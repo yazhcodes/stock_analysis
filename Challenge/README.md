@@ -16,7 +16,7 @@ Upon comparing and visualizing the stock returns of various tickers over 2017 an
 
 **Nested FOR Loop vs FOR Loop**
 
-Before getting to refactor my code as per course instructions, I tried a different variation of the analysis logic. Instead of a Nested FOR loop as mentioned in the course, I tried to accomplish the task using just one FOR Loop. My idea was to optimize the code by cutting down the number of times the loop executed through the dataset. The Nested FOR loop looped through the data set 36144 (12 * 3013) times and my approach using just one FOR Loop looped through the data only 3012 times. This cut down the execution time by 0.2 seconds. 
+Before getting to refactor my code as per course instructions, I tried a different variation of the analysis logic. Instead of a Nested FOR loop as mentioned in the course, I tried to accomplish the task using just one FOR Loop. My idea was to optimize the code by cutting down the number of times the loop executed through the dataset. The Nested FOR loop looped through the data set of 3013 records 12 times! Whereas my approach using just one FOR Loop looped through the data only 3012 times. This cut down the execution time by 0.2 seconds. 
 
 **Refactoring using Arrays**
 
